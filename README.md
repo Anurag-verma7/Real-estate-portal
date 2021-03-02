@@ -1,5 +1,5 @@
 # Link to preview
-click=>[https://nifty-aryabhata-23fcb9.netlify.app/]
+click here(https://nifty-aryabhata-23fcb9.netlify.app/)
 
 
 # Getting Started with Create React App
